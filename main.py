@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # Указать токен вашего бота, который вы получили от BotFather
-TOKEN = '7024914121:AAFFVd1z5ddy3U-1JLVsYih3uLGg4i6uOzI'
+TOKEN = ''
 
 # Инициализация бота
 bot = telebot.TeleBot(TOKEN)
